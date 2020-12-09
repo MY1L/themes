@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="16px" height="16px" viewbox="0 0 16 16" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M3 5.5C3 2.46243 5.46243 0 8.5 0C11.5376 0 14 2.46243 14 5.5C14 8.53757 11.5376 11 8.5 11C7.3425 11 6.26852 10.6424 5.38248 10.0317L1.70711 13.7071C1.31658 14.0976 0.683417 14.0976 0.292893 13.7071C-0.0976311 13.3166 -0.097631 12.6834 0.292893 12.2929L3.96826 8.61752C3.35756 7.73148 3 6.6575 3 5.5ZM8.5 2C6.567 2 5 3.567 5 5.5C5 7.433 6.567 9 8.5 9C10.433 9 12 7.433 12 5.5C12 3.567 10.433 2 8.5 2Z" transform="translate(1 1)" id="Et" />
+  </defs>
+    <g id="s">
+      <use xlink:href="#Et" fill="none" stroke="#000" stroke-opacity="0.5" stroke-width="2" />
+      <use stroke="none" fill="#FFF" xlink:href="#Et" fill-rule="evenodd" />
+    </g>
+</svg>
